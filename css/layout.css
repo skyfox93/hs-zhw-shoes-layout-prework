@@ -26,3 +26,12 @@
 
 .col-1{width:64%;float:left;overflow:hidden;margin:10px}
 .col-2{display:inline-block;width:31%;float:left;margin:10px}
+#shoe{padding-bottom: 10px;}
+.heightfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+}
